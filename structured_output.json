@@ -1,0 +1,70 @@
+[
+    {
+        "section": "General",
+        "content": "Data Parsing and Document Structure (Simple"
+    },
+    {
+        "section": "General",
+        "content": "Notes)"
+    },
+    {
+        "section": "1. What is Data Parsing?",
+        "content": "Data Parsing is the process of reading raw data (like PDF, CSV, or text files) and converting it into a"
+    },
+    {
+        "section": "1. What is Data Parsing?",
+        "content": "structured format that computers can understand."
+    },
+    {
+        "section": "1. What is Data Parsing?",
+        "content": "Example:"
+    },
+    {
+        "section": "1. What is Data Parsing?",
+        "content": "Raw Text: CHAPTER 1 - Introduction to AI"
+    },
+    {
+        "section": "1. What is Data Parsing?",
+        "content": "After Parsing: Section = CHAPTER 1, Content = Introduction to AI"
+    },
+    {
+        "section": "2. What is Document Structure?",
+        "content": "Document Structure refers to the organization of a document. It includes headings, subheadings,"
+    },
+    {
+        "section": "2. What is Document Structure?",
+        "content": "paragraphs, and sections."
+    },
+    {
+        "section": "2. What is Document Structure?",
+        "content": "Example Structure:"
+    },
+    {
+        "section": "\u2022 CHAPTER 1",
+        "content": "\u2022 1.1 Introduction"
+    },
+    {
+        "section": "\u2022 CHAPTER 1",
+        "content": "\u2022 1.2 Applications"
+    },
+    {
+        "section": "3. Relationship Between Them",
+        "content": "Step 1: The document already has structure (headings and sections)."
+    },
+    {
+        "section": "3. Relationship Between Them",
+        "content": "Step 2: Data parsing detects and extracts that structure."
+    },
+    {
+        "section": "3. Relationship Between Them",
+        "content": "Step 3: The structured data is stored in JSON or database format."
+    },
+    {
+        "section": "3. Relationship Between Them",
+        "content": "In short: Document Structure is how a document is organized. Data Parsing is the process of"
+    },
+    {
+        "section": "3. Relationship Between Them",
+        "content": "understanding and extracting that organization."
+    }
+]
